@@ -1,2 +1,2 @@
 # MalReg
-CommmanLine Tool to restore default registry Key modify by Malware
+CommmanLine Tool to delete malware registry signatures.
